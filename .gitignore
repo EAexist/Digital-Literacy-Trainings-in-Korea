@@ -5,3 +5,4 @@
 *.xlsx
 *.tsv
 !events.tsv
+!gemini_data_extractIon_result.tsv
