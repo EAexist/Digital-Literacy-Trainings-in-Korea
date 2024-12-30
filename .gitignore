@@ -1,0 +1,7 @@
+*.gdoc
+*.gsheet
+*.pkl
+*.zip
+*.xlsx
+*.tsv
+!events.tsv
